@@ -44,6 +44,7 @@ class: split-three, center
   <br> 
   <br> 
   ![](img/ricard.jpg)
+  Ricard Argelaguet  
   [Babraham Institute, UK](https://www.babraham.ac.uk/people/member/891)
   [`r icons::icon_style(icons::fontawesome("twitter"), fill="#1DA1F2")`](https://twitter.com/rargelaguet)
   statistical methods for single-cell multi-omics data
@@ -53,6 +54,7 @@ class: split-three, center
   <br> 
   <br> 
   ![](img/robert.jpg)
+  Robert Castelo  
   [DCEXS-UPF](https://functionalgenomics.upf.edu/people/rcastelo)
   [`r icons::icon_style(icons::fontawesome("twitter"), fill="#1DA1F2")`](https://twitter.com/robertclab)  
   statistical & bioinformatic methods for genomics data
@@ -62,6 +64,7 @@ class: split-three, center
   <br>
   <br>
   ![](img/mireia.jpg)
+  Mireia Ramos  
   [DCEXS-UPF](https://www.upf.edu/web/endocrine-regulatory-genomics/adscripcion/-/-/185253/adscripcion/mireia-ramos)
   [`r icons::icon_style(icons::fontawesome("twitter"), fill="#1DA1F2")`](https://twitter.com/mireia_bioinfo)  
   bioinformatic methods in molecular genetics,
@@ -93,7 +96,7 @@ class: split-three, center
 * The main topics of FCB are:
 
   * Manipulating files from the command line.
-  * Programming.
+  * Programming and data exploration.
   * Development of automatized and reproducible workflows, in the context of
     biological data analysis.
 
@@ -107,11 +110,13 @@ class: split-three, center
 
 # Course structure
 
-* All sessions will be _presential_ unless COVID19 restrictions are enforced
-  by health authorities. In such a case we will go online-synchronous by videocall
-  (Zoom or Google Meet).
-* There will be no _hybrid_ sessions, i.e., simultaneous _presential_ and
-  _videocall_, although recorded videos from last year may be available.
+* All sessions will be _in-person_ unless COVID19 restrictions are enforced
+  by health authorities. In such a case we will go online-synchronous by
+  videocall (Zoom and/or Google Meet).
+* There will be no _hybrid_ sessions, i.e., simultaneously _in-person_ and
+  _online_, unless one or more students are quarantined for COVID19.
+* Some recorded materials from last year will be available, but part of
+  those contents may change through this edition of the course.
 
 ![](img/ContentsAcadCalendar.jpg)
 
@@ -210,6 +215,17 @@ class: split-three, center
 
 * You will find full instructions at https://funcompbio.github.io/setup
 
+* The first two practicals will take place in the computer room 61.303, which
+  will be prepared with the necessary software.
+
+* The rest of the practicals (P3 starting on October 11th) will take place in
+  a regular room 61.212 with sockets to let you plug your laptop.
+
+* You'll need to bring your laptop with the software installed and the
+  WiFi connection configured (see https://guiesbibtic.upf.edu/eduroam).
+
+* The library has a service that allows students to borrow a laptop.
+
 ---
 
 # Social-media productivity profiles
@@ -247,7 +263,7 @@ for submitting and correcting assignments from practicals.
 
 * **All assignments submited through GitHub will be privately stored** under
 the GitHub organization repository
-[https://github.com/funcompbio](https://github.com/funcompbio)
+[https://github.com/funcompbio2021](https://github.com/funcompbio2021)
 and **your public GitHub profile can stay completely empty**.
 
 * Your GitHub account can become a productive and powerful platform for
@@ -277,7 +293,7 @@ integrates with other platforms, including
 [GitHub](https://slack.github.com).
 
 * The UPF offers a Slack workspace called _upfbarcelona_ for all members of the
-  UPF community (students, faculty, etc.); see
+  UPF community; see
   [https://guiesbibtic.upf.edu/slack](https://guiesbibtic.upf.edu/slack).
 
 * We have a Slack workspace for FCB called _fcb2021upf_ associated with the URL:
@@ -290,7 +306,7 @@ integrates with other platforms, including
 
 # Social-media productivity profiles - Slack
 
-![](img/slackwindow.png)
+![:scale 80%](img/slackwindow.png)
 
 ---
 
@@ -298,7 +314,7 @@ integrates with other platforms, including
 
 * The Moodle site of FCB will be the entry point for all materials and activities.
 
-![:scale 60%](img/moodlesitewindow.png)
+![:scale 70%](img/moodlesitewindow.png)
 
 ---
 
