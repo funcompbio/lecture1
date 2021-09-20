@@ -31,7 +31,7 @@ class: title-slide, middle, center
 
 ### BSc on Human Biology
 ### UPF School of Health and Life Sciences
-### Academic Year 2022-2022
+### Academic Year 2021-2022
 
 ---
 
