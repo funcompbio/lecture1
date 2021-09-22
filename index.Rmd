@@ -272,9 +272,12 @@ your computational biology work: **keep it alive throughout the degree**.
 * You may consider using it to store some of your student
 assignments/projects, make them even public and make even
 your own professional profile; see, for instance
-[https://lucywan.github.io](https://lucywan.github.io)
+[https://kellyjwallace.github.io](https://kellyjwallace.github.io)
 or
-[https://dieuwkehupkes.github.io](https://dieuwkehupkes.github.io).
+[https://dieuwkehupkes.github.io](https://dieuwkehupkes.github.io),
+and
+[https://academicpages.github.io](https://academicpages.github.io)
+for a template to create your own personal website.
 
 ---
 
