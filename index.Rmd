@@ -149,7 +149,7 @@ class: split-three, center
 
 * Continuous evaluation:
   * Seminars through a test on programming problem solving (1 point on the final
-    grade): **November 5th, 08:30-09:30**
+    grade): **November 5th, 09:45-11:00**
   * Practicals through the submission of computer assignments (2 points on the
     final grade): ~ 8 assignments, one week submission period, penalty for late
     submissions.
