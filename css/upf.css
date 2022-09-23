@@ -89,3 +89,13 @@ blockquote{border-left:5px solid #cccccc;padding-left:1em;margin:1em -1em;font-s
   clear: both;
   display: table;
 }
+
+/* 14px font in slide */
+.font14px {
+  font-size: 14px;
+}
+
+/* 18px font in slide */
+.font18px {
+  font-size: 18px;
+}

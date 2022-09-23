@@ -31,11 +31,11 @@ class: title-slide, middle, center
 
 ### BSc on Human Biology
 ### UPF School of Health and Life Sciences
-### Academic Year 2021-2022
+### Academic Year 2022-2023
 
 ---
 
-class: split-three, center
+class: split-four, center, font18px
 
 # Instructors
 
@@ -43,29 +43,38 @@ class: split-three, center
   <br> 
   <br> 
   <br> 
-  ![](img/ricard.jpg)
-  Ricard Argelaguet  
-  [Babraham Institute, UK](https://www.babraham.ac.uk/people/member/891)
-  [`r icons::icon_style(icons::fontawesome("twitter"), fill="#1DA1F2")`](https://twitter.com/rargelaguet)
-  statistical methods for single-cell multi-omics data
+  ![:scale 80%](img/bea.jpg)
+  Beatriz Calvo  
+  [MELIS-UPF](https://es.linkedin.com/in/beatrizcalvoserra)
+  [`r icons::icon_style(icons::fontawesome("twitter"), fill="#1DA1F2")`](https://twitter.com/beacalvo_)  
+  clinical genomics & bioinformatic methods for genomics data
 ]
 .column[
   <br> 
   <br> 
   <br> 
-  ![](img/robert.jpg)
+  ![:scale 80%](img/robert.jpg)
   Robert Castelo  
-  [DCEXS-UPF](https://functionalgenomics.upf.edu/people/rcastelo)
+  [MELIS-UPF](https://functionalgenomics.upf.edu/people/rcastelo)
   [`r icons::icon_style(icons::fontawesome("twitter"), fill="#1DA1F2")`](https://twitter.com/robertclab)  
   statistical & bioinformatic methods for genomics data
 ]
 .column[
+  <br> 
+  <br> 
+  <br> 
+  ![:scale 80%](img/josecarlos.jpg)
+  José Carlos Montañés  
+  [IMIM](https://es.linkedin.com/in/jos%C3%A9-carlos-monta%C3%B1%C3%A9s-121b30105)  
+  evolutionary genomics of de novo and duplicated genes
+]
+.column[
   <br>
   <br>
   <br>
-  ![](img/mireia.jpg)
+  ![:scale 80%](img/mireia.jpg)
   Mireia Ramos  
-  [DCEXS-UPF](https://www.upf.edu/web/endocrine-regulatory-genomics/adscripcion/-/-/185253/adscripcion/mireia-ramos)
+  [MELIS-UPF](https://www.upf.edu/web/endocrine-regulatory-genomics/adscripcion/-/-/185253/adscripcion/mireia-ramos)
   [`r icons::icon_style(icons::fontawesome("twitter"), fill="#1DA1F2")`](https://twitter.com/mireia_bioinfo)  
   bioinformatic methods in molecular genetics,
   [@RLadiesBCN](https://twitter.com/RLadiesBCN) organizer
@@ -94,15 +103,15 @@ class: split-three, center
 # Course topics
 
 * The main topics of FCB are:
-
+  &nbsp;&nbsp;
   * Manipulating files from the command line.
   * Programming and data exploration.
   * Development of automatized and reproducible workflows, in the context of
     biological data analysis.
-
+  &nbsp;&nbsp;
 * These skills are highly and increasingly appreciated in academic and
   industrial environments from the life sciences.
-
+  &nbsp;&nbsp;
 * Your CV can grow with every technique, tool or platform that you will learn
   to use in FCB.
 
@@ -149,12 +158,12 @@ class: split-three, center
 
 * Continuous evaluation:
   * Seminars through a test on programming problem solving (1 point on the final
-    grade): **November 5th, 09:45-11:00**
+    grade): **Friday November 4th, 09:30-10:30**
   * Practicals through the submission of computer assignments (2 points on the
     final grade): ~ 8 assignments, one week submission period, penalty for late
     submissions.
   * Data analysis project (3 points on the final grade): ~ 14hrs work including 2
-    seminars, submission deadline ~Dec 5th, penalty for late submissions.
+    seminars, submission deadline ~Dec 4th, penalty for late submissions.
 
 ---
 
@@ -207,19 +216,19 @@ class: split-three, center
 # Software tooling
 
 * You need to install in your computer the following software tools:
-  * Unix shell: by Practical 1 on September 29th.
-  * Text editor: by Practical 2 on October 5th.
-  * Git version-control system: by Practical 3 on October 11th.
-  * Python and Jupyter Notebook: by Practical 4 and October 14th.
-  * R and RStudio Notebook: by Practical 7 on November 3rd.
+  * Unix shell: by Practical 1 on September 28th.
+  * Text editor: by Practical 2 on October 4th.
+  * Git version-control system: by Practical 3 on October 10th.
+  * Python and Jupyter Notebook: by Practical 4 and October 13th.
+  * R and RStudio Notebook: by Practical 7 on November 2nd.
 
 * You will find full instructions at https://funcompbio.github.io/setup
 
 * The first two practicals will take place in the computer room 61.303, which
   will be prepared with the necessary software.
 
-* The rest of the practicals (P3 starting on October 11th) will take place in
-  a regular room 61.212 with sockets to let you plug your laptop.
+* The rest of the practicals (P3 starting on October 10th) will take place in
+  a regular rooms with sockets to let you plug your laptop.
 
 * You'll need to bring your laptop with the software installed and the
   WiFi connection configured (see https://guiesbibtic.upf.edu/eduroam).
@@ -299,8 +308,8 @@ integrates with other platforms, including
   UPF community; see
   [https://guiesbibtic.upf.edu/slack](https://guiesbibtic.upf.edu/slack).
 
-* We have a Slack workspace for FCB called _fcb2021upf_ associated with the URL:
-  [https://fcb2021upf.slack.com](https://fcb2021upf.slack.com), but
+* We have a Slack workspace for FCB called _fcb2022upf_ associated with the URL:
+  [https://fcb2022upf.slack.com](https://fcb2022upf.slack.com), but
   **it has no public profiles**.
 
 ![:scale 50%](img/slackwindow2.png)
