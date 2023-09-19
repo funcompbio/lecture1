@@ -31,7 +31,7 @@ class: title-slide, middle, center
 
 ### BSc on Human Biology
 ### UPF School of Health and Life Sciences
-### Academic Year 2022-2023
+### Academic Year 2023-2024
 
 ---
 
@@ -39,7 +39,7 @@ class: split-four, center, font18px
 
 # Instructors
 
-.column[
+.sbys-column[
   <br> 
   <br> 
   <br> 
@@ -49,7 +49,7 @@ class: split-four, center, font18px
   [`r icons::icon_style(icons::fontawesome("twitter"), fill="#1DA1F2")`](https://twitter.com/beacalvo_)  
   clinical genomics & bioinformatic methods for genomics data
 ]
-.column[
+.sbys-column[
   <br> 
   <br> 
   <br> 
@@ -57,9 +57,11 @@ class: split-four, center, font18px
   Robert Castelo  
   [MELIS-UPF](https://functionalgenomics.upf.edu/people/rcastelo)
   [`r icons::icon_style(icons::fontawesome("twitter"), fill="#1DA1F2")`](https://twitter.com/robertclab)  
+  [robert.castelo@upf.edu](mailto:robert.castelo@upf.edu)  
+  (coordinator)  
   statistical & bioinformatic methods for genomics data
 ]
-.column[
+.sbys-column[
   <br> 
   <br> 
   <br> 
@@ -67,17 +69,6 @@ class: split-four, center, font18px
   José Carlos Montañés  
   [IMIM](https://es.linkedin.com/in/jos%C3%A9-carlos-monta%C3%B1%C3%A9s-121b30105)  
   evolutionary genomics of de novo and duplicated genes
-]
-.column[
-  <br>
-  <br>
-  <br>
-  ![:scale 80%](img/mireia.jpg)
-  Mireia Ramos  
-  [MELIS-UPF](https://www.upf.edu/web/endocrine-regulatory-genomics/adscripcion/-/-/185253/adscripcion/mireia-ramos)
-  [`r icons::icon_style(icons::fontawesome("twitter"), fill="#1DA1F2")`](https://twitter.com/mireia_bioinfo)  
-  bioinformatic methods in molecular genetics,
-  [@RLadiesBCN](https://twitter.com/RLadiesBCN) organizer
 ]
 
 ---
@@ -110,7 +101,7 @@ class: split-four, center, font18px
     biological data analysis.
   &nbsp;&nbsp;
 * These skills are highly and increasingly appreciated in academic and
-  industrial environments from the life sciences.
+  industrial environments from the life sciences.  
   &nbsp;&nbsp;
 * Your CV can grow with every technique, tool or platform that you will learn
   to use in FCB.
@@ -119,6 +110,7 @@ class: split-four, center, font18px
 
 # Course structure
 
+<!--
 * All sessions will be _in-person_ unless COVID19 restrictions are enforced
   by health authorities. In such a case we will go online-synchronous by
   videocall (Zoom and/or Google Meet).
@@ -126,6 +118,14 @@ class: split-four, center, font18px
   _online_, unless one or more students are quarantined for COVID19.
 * Some recorded materials from last year will be available, but part of
   those contents may change through this edition of the course.
+-->
+
+* All sessions will be _in-person_, there will be no online teaching or
+  recordings.  
+  &nbsp;&nbsp;
+* Assistance to the sessions **is not** compulsory, albeit highly recommended.
+  Exams can only be taken _in-person_, therefore, assistance to the exams
+  **is required** to pass FCB.
 
 ![](img/ContentsAcadCalendar.jpg)
 
@@ -158,7 +158,7 @@ class: split-four, center, font18px
 
 * Continuous evaluation:
   * Seminars through a test on programming problem solving (1 point on the final
-    grade): **Friday November 4th, 09:30-10:30**
+    grade): **Friday November 3rd, 09:30-10:30**
   * Practicals through the submission of computer assignments (2 points on the
     final grade): ~ 8 assignments, one week submission period, penalty for late
     submissions.
