@@ -130,7 +130,7 @@ class: split-four, center, font18px
 * Exams can only be taken _in-person_, and therefore, assistance to the exams
   **is required** to pass FCB.
 
-![](img/ContentsAcadCalendar.jpg)
+![](img/ContentsAcadCalendar.png)
 
 ---
 
@@ -332,7 +332,7 @@ for a template to create your own personal website.
 ]
 ---
 
-# Social-media productivity profiles - Slack
+# Social-media productivity profiles - Zulip
 
 * To get started with Zulip follow the invitation link at the top of the
   FCB Moodle site and visit this
