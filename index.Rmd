@@ -76,15 +76,15 @@ class: split-four, center, font18px
 # Computational biology
 
 * [Computational biology](https://en.wikipedia.org/wiki/Computational_biology)
-  is the study of biology using computation.
-
+  is the study of biology using computation.  
+  &nbsp;&nbsp;
 * Computational biology **is** biology, because the word _computational_ is an
-  adjective.
-
+  adjective.  
+  &nbsp;&nbsp;
 * Fundamentals of Computational Biology (FCB) will introduce to you concepts
   and basic tools of computation and information technologies, required to
-  address biological questions using a computer.
-
+  address biological questions using a computer.  
+  &nbsp;&nbsp;
 * The purpose of introducing this subject at the beginning of the curriculum is
   to enable the student using the tools and abilities acquired in FCB throughout
   the whole degree.
@@ -103,7 +103,7 @@ class: split-four, center, font18px
 * These skills are highly and increasingly appreciated in academic and
   industrial environments from the life sciences.  
   &nbsp;&nbsp;
-* Your CV can grow with every technique, tool or platform that you will learn
+* Your CV can grow with every technique, tool or platform that you **learn**
   to use in FCB.
 
 ---
@@ -124,7 +124,10 @@ class: split-four, center, font18px
   recordings.  
   &nbsp;&nbsp;
 * Assistance to the sessions **is not** compulsory, albeit highly recommended.
-  Exams can only be taken _in-person_, therefore, assistance to the exams
+  If you miss a session, you are also responsible for learning the contents
+  of that session **on your own**. Office hours do not replace missed sessions.  
+  &nbsp;&nbsp;
+* Exams can only be taken _in-person_, and therefore, assistance to the exams
   **is required** to pass FCB.
 
 ![](img/ContentsAcadCalendar.jpg)
@@ -134,36 +137,35 @@ class: split-four, center, font18px
 # Course workload
 
 * One single group-class for lectures (~ 60 students/group), two for seminars
-  (~ 30 students/group), four for practicals (~ 15 students/group)
-
+  (~ 30 students/group), four for practicals (~ 15 students/group).  
+  &nbsp;&nbsp;
 * One ECTS (~ 25hrs) throughout 10 weeks:
   * 3 hrs of lectures
   * 2 hrs of seminars
   * 2 hrs of practicals
   * 16 hrs of out-of-class work (study, assignments, etc.)
-
 * FCB has 5 ECTS, 125hrs in 10 weeks (~ 12 hr/week). Because of the learning
   goals of FCB, we reduce 4 hrs of lectures to have one more seminar:
   * **11** lectures = 11 hrs
   * **6** seminars x 2 hrs = 12 hrs
   * **10** practicals x 2 hrs = 20 hrs
-  * 43 hrs of class time work (~ 4 hrs/week)
-  * 82 hrs of out-of-class time work (~ 8 hrs/week)
+  * 11+12+20=43 hrs of class time work (~ 4 hrs/week)
+  * 125-43=82 hrs of out-of-class time work (~ 8 hrs/week)
 
 ---
 
 # Course evaluation
 
-* Continuous (60%) + final (40%) over a total of 10 points.
-
+* Continuous (60%) + final (40%) over a total of 10 points.  
+  &nbsp;&nbsp;
 * Continuous evaluation:
   * Seminars through a test on programming problem solving (1 point on the final
     grade): **Friday November 3rd, 09:30-10:30**
   * Practicals through the submission of computer assignments (2 points on the
-    final grade): ~ 8 assignments, one week submission period, penalty for late
+    final grade): ~ 6 assignments, one week submission period, penalty for late
     submissions.
   * Data analysis project (3 points on the final grade): ~ 14hrs work including 2
-    seminars, submission deadline ~Dec 4th, penalty for late submissions.
+    seminars, submission deadline on December 3rd, penalty for late submissions.
 
 ---
 
@@ -173,17 +175,15 @@ class: split-four, center, font18px
   * Multiple-choice written exam ("PEM" in its Catalan acronym) for 50% of the final
     evaluation.
   * Open written exam ("Assaig" in Catalan) for 50% of the final evaluation.
-
 * To pass FCB at the end of the term, the student must:
   1. Obtain a minimum grade of 4/10 in the average evaluation of seminars and
      practicals.
   2. Obtain a minimum grade of 4/10 in the evaluation of the data analysis
      project.
   3. Obtain a minimum grade of 4/10 in the final evaluation.
-
 * Remedial exam on July for the final (40%) evaluation. **It is not possible**
-  to retake the continuous evaluation.
-
+  to retake the continuous evaluation.  
+  &nbsp;&nbsp;
 * Even if you make a perfect July remedial exam, you won't pass FCB if you have
   not scratched at least 1 of the 6 points of the continuous evaluation.
 
@@ -191,71 +191,77 @@ class: split-four, center, font18px
 
 # Course evaluation
 
-* You should do the assignments **on your own**. You may ask questions on the
-  Slack workspace, but you should not copy the assignment from a classmate.
- 
+* You should do the assignments **on your own**. You may ask questions online,
+  but you should not copy the assignment from a classmate.  
+  &nbsp;&nbsp;
 * Data analysis projects can be done individually or in teams of two people
-  (encouraged).
-
-* The exam on programming problem solving will be **individual and in person**.
-
-* The final open written exam will be **individual and in person**.
-
-* The final multiple-choice written exam will be **individual and in person**.
-
+  (encouraged).  
+  &nbsp;&nbsp;
+* The exam on programming problem solving will be **individual and in person**.  
+  &nbsp;&nbsp;
+* The final open written exam will be **individual and in person**.  
+  &nbsp;&nbsp;
+* The final multiple-choice written exam will be **individual and in person**.  
+  &nbsp;&nbsp;
 * You won't be able to pass FCB without sufficiently performing on the exams
-  that you take **individually and in person**.
-
+  that you take **individually and in person**.  
+  &nbsp;&nbsp;
 * The best way to prepare yourself for those exams is to do the assignments on
-  your own and work the project hand-in-hand with your mate.
+  your own and work the project hand-in-hand with your project classmate.
 
-* Your goal shouldn't be to reach a specific mark, it should be **learning**.
+---
+class: center, middle, inverse
+
+# Your goal should not be to reach a specific mark, your goal should be **learning**
 
 ---
 
 # Software tooling
 
-* You need to install in your computer the following software tools:
-  * Unix shell: by Practical 1 on September 28th.
-  * Text editor: by Practical 2 on October 4th.
-  * Git version-control system: by Practical 3 on October 10th.
-  * Python and Jupyter Notebook: by Practical 4 and October 13th.
-  * R and RStudio Notebook: by Practical 7 on November 2nd.
-
+* You may want to install in your computer the following software tools:
+  * Unix shell: by Practical 1 on September 27th.
+  * Text editor: by Practical 2 on October 3rd.
+  * Git version-control system: by Practical 3 on October 9th.
+  * Python and Jupyter Notebook: by Practical 4 and October 11th.
+  * R and RStudio Notebook: by Practical 7 on October 31st.
 * You will find full instructions at https://funcompbio.github.io/setup
 
-* The first two practicals will take place in the computer room 61.303, which
-  will be prepared with the necessary software.
+---
 
-* The rest of the practicals (P3 starting on October 10th) will take place in
-  a regular rooms with sockets to let you plug your laptop.
+# Software tooling
 
-* You'll need to bring your laptop with the software installed and the
-  WiFi connection configured (see https://guiesbibtic.upf.edu/eduroam).
-
-* The library has a service that allows students to borrow a laptop.
+* All the practicals will take place in computer rooms, which will be prepared
+  with the necessary software.  
+  &nbsp;&nbsp;
+* For seminars 4 and 5 you will have to bring along a computer laptop, because
+  they will take place in regular classrooms, but with electric sockets.  
+  &nbsp;&nbsp;
+* For seminars 4 and 5 yoou should bring your laptop with the necessary software
+  installed and the Eduroam WiFi connection configured
+  (see https://guiesbibtic.upf.edu/eduroam).  
+  &nbsp;&nbsp;
+* If you do not have a laptop, or you do not have the necessary software
+  installed, the library has a service that allows students to borrow a laptop.  
 
 ---
 
 # Social-media productivity profiles
 
 * We will be using two social-media productivity platforms:
-[GitHub](https://github.com) and [Slack](https://slack.com).
-
-* You will need to create a profile in each of these platforms
-(instructions will follow) using your UPF student email
-address.
-
-* It is **very important** that you check and use your UPF
-student email address for any communication related to FCB.
-
-* Important announcements, deadlines, etc. related to FCB
-will only occur through your UPF student email address and
-the FCB Moodle site.
-
-* GitHub and Slack are tools to facilitate the achievement
-of the learning goals of FCB, but do not replace the UPF
-student email and FCB Moodle site for official communications.
+  [GitHub](https://github.com) and [Zulip](https://zulip.com).  
+  &nbsp;&nbsp;
+* You will need to create a profile in each of these platforms (instructions
+  will follow) using your UPF student email address.  
+  &nbsp;&nbsp;
+* It is **very important** that you check and use your UPF student email
+  address for communications on general information about FCB.  
+  &nbsp;&nbsp;
+* Schedule changes, deadlines, draft grades, etc. related to FCB will only
+  occur through your UPF student email address and the FCB Moodle site.  
+  &nbsp;&nbsp;
+* GitHub and Zulip are tools to facilitate the achievement of the learning
+  goals of FCB, but they do not replace the UPF student email and FCB Moodle
+  site for official communications.
 
 ---
 
@@ -272,7 +278,7 @@ for submitting and correcting assignments from practicals.
 
 * **All assignments submited through GitHub will be privately stored** under
 the GitHub organization repository
-[https://github.com/funcompbio2021](https://github.com/funcompbio2021)
+[https://github.com/funcompbio2023](https://github.com/funcompbio2023)
 and **your public GitHub profile can stay completely empty**.
 
 * Your GitHub account can become a productive and powerful platform for
@@ -296,29 +302,43 @@ for a template to create your own personal website.
 
 ---
 
-# Social-media productivity profiles - Slack
+# Social-media productivity profiles - Zulip
 
-* **Slack** is a messaging platform that allows one to organize messages
-by topic, is all searchable, facilitates sending code and attachments and
-integrates with other platforms, including
-[Google G Suite](https://gsuite.google.com/slack) and
-[GitHub](https://slack.github.com).
+* [Zulip](https://zulip.com) is an instant messaging (IM) platform that allows
+  one to organize messages by streams and topics, is all searchable, facilitates
+  sending code and attachments and integrates with other platforms, such as
+  Google Calendar or GitHub; see
+  [Zulip integrations](https://zulip.com/integrations). It works similarly to
+  [Slack](https://slack.com) or
+  [Microsoft Teams](https://www.microsoft.com/microsoft-teams).
 
-* The UPF offers a Slack workspace called _upfbarcelona_ for all members of the
-  UPF community; see
-  [https://guiesbibtic.upf.edu/slack](https://guiesbibtic.upf.edu/slack).
-
-* We have a Slack workspace for FCB called _fcb2022upf_ associated with the URL:
-  [https://fcb2022upf.slack.com](https://fcb2022upf.slack.com), but
+.left-column[
+* We have a Zulip organization for FCB associated with the URL:
+  [https://fcb2023.zulipchat.com](https://fcb2023.zulipchat.com), but
   **it has no public profiles**.
 
-![:scale 50%](img/slackwindow2.png)
+![:scale 60%](img/zulipwindow1.png)
+]
 
+.right-column[
+* Office hours: Zulip is the preferred and quicker way to have
+  *office hours*, will try to answer within one business day.  
+  &nbsp;&nbsp;
+* In-person office hours: Thursday's mornings, from 9:00 to 11:00, PRBB Building
+  (C/ Doctor Aiguader 88), 4th floor, north/hotel wing, office 486.02.  
+  &nbsp;&nbsp;
+* In-person office hours are only available by first applying by email
+  or Zulip for an appointment.
+]
 ---
 
 # Social-media productivity profiles - Slack
 
-![:scale 80%](img/slackwindow.png)
+* To get started with Zulip follow the invitation link at the top of the
+  FCB Moodle site and visit this
+  [Zulip help page](https://zulip.com/help/getting-started-with-zulip).
+
+![:scale 80%](img/zulipwindow2.png)
 
 ---
 
@@ -326,7 +346,7 @@ integrates with other platforms, including
 
 * The Moodle site of FCB will be the entry point for all materials and activities.
 
-![:scale 70%](img/moodlesitewindow.png)
+![:scale 65%](img/moodlesitewindow.png)
 
 ---
 
