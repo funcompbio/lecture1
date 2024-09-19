@@ -26,12 +26,12 @@ class: title-slide, middle, center
 
 ## Robert Castelo
 [robert.castelo@upf.edu](mailto:robert.castelo@upf.edu)
-### Dept. of Experimental and Health Sciences
+### Dept. of Medicine and Life Sciences
 ### Universitat Pompeu Fabra
 
 ### BSc on Human Biology
 ### UPF School of Health and Life Sciences
-### Academic Year 2023-2024
+### Academic Year 2024-2025
 
 ---
 
@@ -39,17 +39,7 @@ class: split-four, center, font18px
 
 # Instructors
 
-.sbys-column[
-  <br> 
-  <br> 
-  <br> 
-  ![:scale 80%](img/bea.jpg)
-  Beatriz Calvo  
-  [MELIS-UPF](https://es.linkedin.com/in/beatrizcalvoserra)
-  [`r icons::icon_style(icons::fontawesome("twitter"), fill="#1DA1F2")`](https://twitter.com/beacalvo_)  
-  clinical genomics & bioinformatic methods for genomics data
-]
-.sbys-column[
+.pull-left[
   <br> 
   <br> 
   <br> 
@@ -61,13 +51,13 @@ class: split-four, center, font18px
   (coordinator)  
   statistical & bioinformatic methods for genomics data
 ]
-.sbys-column[
+.pull-right[
   <br> 
   <br> 
   <br> 
   ![:scale 80%](img/josecarlos.jpg)
   José Carlos Montañés  
-  [IMIM](https://es.linkedin.com/in/jos%C3%A9-carlos-monta%C3%B1%C3%A9s-121b30105)  
+  [HMRIB](https://es.linkedin.com/in/jos%C3%A9-carlos-monta%C3%B1%C3%A9s-121b30105)  
   evolutionary genomics of de novo and duplicated genes
 ]
 
@@ -159,12 +149,12 @@ class: split-four, center, font18px
 * Continuous (60%) + final (40%) over a total of 10 points.  
   &nbsp;&nbsp;
 * Continuous evaluation:
-  * Seminars through a test on programming problem solving (1 point on the final
-    grade): **Friday November 3rd, 09:30-10:30**
+  * Seminars through a test on programming problem solving (2 points on the final
+    grade): **Thursday October 31st 09:30-10:30**
   * Practicals through the submission of computer assignments (2 points on the
     final grade): ~ 6 assignments, one week submission period, penalty for late
     submissions.
-  * Data analysis project (3 points on the final grade): ~ 14hrs work including 2
+  * Data analysis project (2 points on the final grade): ~ 14hrs work including 2
     seminars, submission deadline on December 3rd, penalty for late submissions.
 
 ---
@@ -219,11 +209,11 @@ class: center, middle, inverse
 # Software tooling
 
 * You may want to install in your computer the following software tools:
-  * Unix shell: by Practical 1 on September 27th.
-  * Text editor: by Practical 2 on October 3rd.
-  * Git version-control system: by Practical 3 on October 9th.
-  * Python and Jupyter Notebook: by Practical 4 and October 11th.
-  * R and RStudio Notebook: by Practical 7 on October 31st.
+  * Unix shell: by Practical 1 on September 25th.
+  * Text editor: by Practical 2 on October 1st.
+  * Git version-control system: by Practical 3 on October 7th.
+  * Python and Jupyter Notebook: by Practical 4 and October 9th.
+  * R and RStudio Notebook: by Practical 7 on October 29th.
 * You will find full instructions at https://funcompbio.github.io/setup
 
 ---
@@ -233,11 +223,12 @@ class: center, middle, inverse
 * All the practicals will take place in computer rooms, which will be prepared
   with the necessary software.  
   &nbsp;&nbsp;
-* For seminars 4 and 5 you will have to bring along a computer laptop, because
-  they will take place in regular classrooms, but with electric sockets.  
+* In Seminars 4 and 5 we will use also the computer, but you will have to bring
+  your own laptop, because they will take place in regular classrooms, but with
+  electric sockets.
   &nbsp;&nbsp;
-* For seminars 4 and 5 yoou should bring your laptop with the necessary software
-  installed and the Eduroam WiFi connection configured
+* For seminars 4 and 5 you should bring your laptop with the necessary software
+  installed (R and RStudio) and the Eduroam WiFi connection configured
   (see https://guiesbibtic.upf.edu/eduroam).  
   &nbsp;&nbsp;
 * If you do not have a laptop, or you do not have the necessary software
@@ -268,31 +259,31 @@ class: center, middle, inverse
 # Social-media productivity profiles - GitHub
 
 * **GitHub** is a provider of hosting for software
-development and version control using Git.
-
-* The UPF has recently become a partner school of its
-[education program](https://education.github.com),
-which will give us benefits in using
-[GitHub Classroom](https://classroom.github.com)
-for submitting and correcting assignments from practicals.
-
+  development and version control using Git.  
+  &nbsp;&nbsp;
+* The UPF is a partner school of its
+  [education program](https://education.github.com),
+  which gives us benefits in using
+  [GitHub Classroom](https://classroom.github.com)
+  for submitting and correcting assignments from practicals.  
+  &nbsp;&nbsp;
 * **All assignments submited through GitHub will be privately stored** under
-the GitHub organization repository
-[https://github.com/funcompbio2023](https://github.com/funcompbio2023)
-and **your public GitHub profile can stay completely empty**.
-
+  the GitHub organization repository
+  [https://github.com/funcompbio2024](https://github.com/funcompbio2024)
+  and **your public GitHub profile can stay completely empty**.  
+  &nbsp;&nbsp;
 * Your GitHub account can become a productive and powerful platform for
-your computational biology work: **keep it alive throughout the degree**.
-
+  your computational biology work: **keep it alive throughout the degree**.  
+  &nbsp;&nbsp;
 * You may consider using it to store some of your student
-assignments/projects, make them even public and make even
-your own professional profile; see, for instance
-[https://kellyjwallace.github.io](https://kellyjwallace.github.io)
-or
-[https://dieuwkehupkes.github.io](https://dieuwkehupkes.github.io),
-and
-[https://academicpages.github.io](https://academicpages.github.io)
-for a template to create your own personal website.
+  assignments/projects, make them even public and make even
+  your own professional profile; see, for instance
+  [https://kellyjwallace.github.io](https://kellyjwallace.github.io)
+  or
+  [https://dieuwkehupkes.github.io](https://dieuwkehupkes.github.io),
+  and
+  [https://academicpages.github.io](https://academicpages.github.io)
+  for a template to create your own personal website.
 
 ---
 
@@ -314,7 +305,7 @@ for a template to create your own personal website.
 
 .left-column[
 * We have a Zulip organization for FCB associated with the URL:
-  [https://fcb2023.zulipchat.com](https://fcb2023.zulipchat.com), but
+  [https://fcb2024.zulipchat.com](https://fcb2024.zulipchat.com), but
   **it has no public profiles**.
 
 ![:scale 60%](img/zulipwindow1.png)
