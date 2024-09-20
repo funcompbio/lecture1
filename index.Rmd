@@ -296,7 +296,7 @@ class: center, middle, inverse
 # Social-media productivity profiles - Zulip
 
 * [Zulip](https://zulip.com) is an instant messaging (IM) platform that allows
-  one to organize messages by streams and topics, is all searchable, facilitates
+  one to organize messages by channels and topics, is all searchable, facilitates
   sending code and attachments and integrates with other platforms, such as
   Google Calendar or GitHub; see
   [Zulip integrations](https://zulip.com/integrations). It works similarly to
