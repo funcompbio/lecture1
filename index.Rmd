@@ -269,7 +269,7 @@ class: center, middle, inverse
   &nbsp;&nbsp;
 * **All assignments submited through GitHub will be privately stored** under
   the GitHub organization repository
-  [https://github.com/funcompbio2024](https://github.com/funcompbio2024)
+  [https://github.com/FCB-2024](https://github.com/FCB-2024)
   and **your public GitHub profile can stay completely empty**.  
   &nbsp;&nbsp;
 * Your GitHub account can become a productive and powerful platform for
