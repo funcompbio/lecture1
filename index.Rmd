@@ -30,7 +30,7 @@ class: title-slide, middle, center
 ### Universitat Pompeu Fabra
 
 ### BSc on Human Biology
-### UPF School of Health and Life Sciences
+### UPF School of Medicine and Life Sciences
 ### Academic Year 2024-2025
 
 ---
