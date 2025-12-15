@@ -30,9 +30,9 @@ class: title-slide, middle, center
 ### Dept. of Medicine and Life Sciences
 ### Universitat Pompeu Fabra
 
-### BSc on Human Biology
+### BSc on Biomedical Sciences
 ### UPF School of Medicine and Life Sciences
-### Academic Year 2024-2025
+### Academic Year 2025-2026
 
 ---
 
@@ -56,10 +56,11 @@ class: split-four, center, font18px
   <br> 
   <br> 
   <br> 
-  ![:scale 80%](img/josecarlos.jpg)
-  José Carlos Montañés  
-  [HMRIB](https://es.linkedin.com/in/jos%C3%A9-carlos-monta%C3%B1%C3%A9s-121b30105)  
-  evolutionary genomics of de novo and duplicated genes
+  ![:scale 80%](img/marta.jpg)
+  Marta Espinosa Camarena  
+  doctoral student at
+  [HMRIB](https://es.linkedin.com/in/marta-espinosa-camarena)  
+  computational oncology, microproteins and cancer vaccines
 ]
 
 ---
@@ -78,7 +79,12 @@ class: split-four, center, font18px
   &nbsp;&nbsp;
 * The purpose of introducing this subject at the beginning of the curriculum is
   to enable the student using the tools and abilities acquired in FCB throughout
-  the whole degree.
+  the whole degree of
+  [Biomedical Sciences](https://www.upf.edu/web/biomed/pla-estudis-ciencies-biomediques),
+  and particularly in:
+    - Biostatistics in the second year.
+    - Systems Biology and Bioinformatics in the third year.
+    - Structural biology in the fourth year.
 
 ---
 
@@ -127,21 +133,22 @@ class: split-four, center, font18px
 
 # Course workload
 
-* One single group-class for lectures (~ 60 students/group), two for seminars
-  (~ 30 students/group), four for practicals (~ 15 students/group).  
+* One single group-class for lectures (~ 70 students/group), two for seminars
+  (~ 35 students/group), four for practicals (~ 16 students/group).  
   &nbsp;&nbsp;
 * One ECTS (~ 25hrs) throughout 10 weeks:
-  * 3 hrs of lectures
-  * 2 hrs of seminars
-  * 2 hrs of practicals
+  * 3 hrs of lectures (3 sessions)
+  * 2 hrs of seminars (1 session)
+  * 4 hrs of practicals (2 sessions)
   * 16 hrs of out-of-class work (study, assignments, etc.)
-* FCB has 5 ECTS, 125hrs in 10 weeks (~ 12 hr/week). Because of the learning
-  goals of FCB, we reduce 4 hrs of lectures to have one more seminar:
-  * **11** lectures = 11 hrs
-  * **6** seminars x 2 hrs = 12 hrs
-  * **10** practicals x 2 hrs = 20 hrs
-  * 11+12+20=43 hrs of class time work (~ 4 hrs/week)
-  * 125-43=82 hrs of out-of-class time work (~ 8 hrs/week)
+* FCB has 6 ECTS, 125hrs in 10 weeks (~ 12 hr/week). Because of the learning
+  goals of FCB, we exchange 6 hrs of lectures and 2 hrs of practicals to have
+  2 more seminars:
+  * **12** lectures = 12 hrs
+  * **8** seminars x 2 hrs = 16 hrs
+  * **11** practicals x 2 hrs = 22 hrs
+  * 12+16+22=50 hrs of class time work (~ 5 hrs/week)
+  * 125-50=75 hrs of out-of-class time work (~ 7 hrs/week)
 
 ---
 
@@ -151,12 +158,12 @@ class: split-four, center, font18px
   &nbsp;&nbsp;
 * Continuous evaluation:
   * Seminars through a test on programming problem solving (2 points on the final
-    grade): **Thursday October 31st 09:30-10:30**
+    grade): **Friday February 6th 09:30-10:30**
   * Practicals through the submission of computer assignments (2 points on the
     final grade): ~ 6 assignments, one week submission period, penalty for late
     submissions.
-  * Data analysis project (2 points on the final grade): ~ 14hrs work including 2
-    seminars, submission deadline on December 3rd, penalty for late submissions.
+  * Data analysis project (2 points on the final grade): ~ 14hrs work including
+    3 seminars, submission deadline on March 10th, penalty for late submissions.
 
 ---
 
@@ -210,11 +217,11 @@ class: center, middle, inverse
 # Software tooling
 
 * You may want to install in your computer the following software tools:
-  * Unix shell: by Practical 1 on September 25th.
-  * Text editor: by Practical 2 on October 1st.
-  * Git version-control system: by Practical 3 on October 7th.
-  * Python and Jupyter Notebook: by Practical 4 and October 9th.
-  * R and RStudio Notebook: by Practical 7 on October 29th.
+  * Unix shell: by Practical 1 on January 8th.
+  * Text editor: by Practical 2 on January 13th.
+  * Git version-control system: by Practical 3 on January 15th.
+  * Python: by Practical 4 and January 21st.
+  * R and RStudio Notebook: by Practical 7 on February 10th.
 * You will find full instructions at https://funcompbio.github.io/setup
 
 ---
@@ -270,7 +277,7 @@ class: center, middle, inverse
   &nbsp;&nbsp;
 * **All assignments submited through GitHub will be privately stored** under
   the GitHub organization repository
-  [https://github.com/FCB-2024](https://github.com/FCB-2024)
+  [https://github.com/FCB-2026](https://github.com/FCB-2026)
   and **your public GitHub profile can stay completely empty**.  
   &nbsp;&nbsp;
 * Your GitHub account can become a productive and powerful platform for
@@ -290,7 +297,7 @@ class: center, middle, inverse
 
 # Social-media productivity profiles - GitHub
 
-![:scale 70%](img/githubwindow.png)
+![:scale 70%](img/githubwindow.jpg)
 
 ---
 
@@ -306,7 +313,7 @@ class: center, middle, inverse
 
 .left-column[
 * We have a Zulip organization for FCB associated with the URL:
-  [https://fcb2024.zulipchat.com](https://fcb2024.zulipchat.com), but
+  [https://fcb2026.zulipchat.com](https://fcb2026.zulipchat.com), but
   **it has no public profiles**.
 
 ![:scale 60%](img/zulipwindow1.png)
@@ -316,7 +323,7 @@ class: center, middle, inverse
 * Office hours: Zulip is the preferred and quicker way to have
   *office hours*, will try to answer within one business day.  
   &nbsp;&nbsp;
-* In-person office hours: Thursday's mornings, from 9:00 to 11:00, PRBB Building
+* In-person office hours: Monday's mornings, from 11:00 to 13:00, PRBB Building
   (C/ Doctor Aiguader 88), 4th floor, north/hotel wing, office 486.02.  
   &nbsp;&nbsp;
 * In-person office hours are only available by first applying by email
