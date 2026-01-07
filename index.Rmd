@@ -208,14 +208,62 @@ class: split-four, center, font18px
   your own and work the project hand-in-hand with your project classmate.
 
 ---
-class: center, middle, inverse
 
-# Your goal should not be to reach a specific mark, your goal should be **learning**
+# Use of AI tools
+
+.pull-left[
+* Letting AI tools such as ChatGPT or Gemini to entirely do your homework,
+  is akin to *"outsourcing your brain to these tools"*
+  ([Daniela Witten, *ChatGPT ate my homework*, 2025](https://imstat.org/2025/11/15/written-by-witten-chatgpt-ate-my-homework)).  
+  &nbsp;&nbsp;
+* Your goal should not be to reach a specific mark, your goal should be
+  **learning**.
+]
+
+.pull-right[
+![AIGym](img/aigym.jpg)
+]
+
+.footer[[Image by Elliott Hedman](https://www.buildempathy.com/human-ai-interactions/aiabstinence).]
+
+---
+
+# Use of AI tools
+
+.pull-left[
+* We will introduce AI
+  [pair programming](https://en.wikipedia.org/wiki/Pair_programming), where you
+  work alongside an AI coding assistant to help you develop faster and better
+  code.  
+  &nbsp;&nbsp;
+* AI pair programming can only help as long as you have basic problem solving
+  skills that allow you to evaluate what the AI assistant is proposing you to do.  
+  &nbsp;&nbsp;
+* We will be using [GitHub Copilot](https://github.com/features/copilot), which
+  is a AI coding assistant specifically developed for programming, and has
+  become an industry standard.
+
+]
+
+.pull-right[
+![AIGym](img/sportswearabletech.jpg)
+]
+
+.footer[[Image by TeamScaler](https://www.teamscaler.co/blog/the-power-of-wearable-technology-in-sports-and-everyday-life).]
 
 ---
 
 # Software tooling
 
+* All practicals, except group 101 in practical 5, will take place in a
+  computer room.  
+  &nbsp;&nbsp;
+* However, in seminars 4, 5 and 6, you should bring your own device, or
+  borrow one from the library.  
+  &nbsp;&nbsp;
+* While you may use computer rooms from all UPF campuses, you may want
+  to work at home with your own device.  
+  &nbsp;&nbsp;
 * You may want to install in your computer the following software tools:
   * Unix shell: by Practical 1 on January 8th.
   * Text editor: by Practical 2 on January 13th.
