@@ -30,7 +30,8 @@ class: title-slide, middle, center
 ### Dept. of Medicine and Life Sciences
 ### Universitat Pompeu Fabra
 
-### BSc on Biomedical Sciences
+
+### BSc in Biomedical Sciences
 ### UPF School of Medicine and Life Sciences
 ### Academic Year 2025-2026
 
